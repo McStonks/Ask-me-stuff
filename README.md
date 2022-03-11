@@ -9,3 +9,5 @@ Remember, I may be good at Hammer, but I'm no Valve employee. My maps probably w
 Don't worry about how embarassing you might think it is, just ask away, I honestly don't care how embarassing it is.
 
 At the time I'm writing this, my laptop isn't working, so I can only make source trilogy maps using online map editors (still got a crappy chromebook). If anybody finds any online or android source map editors out there, just put it in an issue and tell me.
+
+I can still play source and goldsource games, though, thanks to the Xash3D guys and whoever's doing crap with the Nvidia Shield HL2 stuff.

@@ -10,4 +10,4 @@ Don't worry about how embarassing you might think it is, just ask away, I honest
 
 At the time I'm writing this, my laptop isn't working, so I can only make source trilogy maps using online map editors (still got a crappy chromebook). If anybody finds any online or android source map editors out there, just put it in an issue and tell me.
 
-I can still play source and goldsource games, though, thanks to the Xash3D guys and whoever's doing crap with the Nvidia Shield HL2 stuff.
+I can still play _some_ goldsource and source games, though, thanks to the Xash3D guys and whoever's doing crap with the Nvidia Shield HL2 thing. I don't actually have a Nvidia Shield (I have a Samsung, and not because of that virtual assistant) though, somebody added actual touch controls, some of which were clearly ported from Xash3D. Keyword: _some_.

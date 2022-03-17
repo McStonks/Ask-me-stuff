@@ -16,4 +16,4 @@ My main account (Slambo312) probably won't be online for a while, since I only r
 
 ¹ I consider my phone a PC because it's technically a personal computer, and its specs are good enough that it can play Pojav (an amazing port of Minecraft Java, which uses a technically legal way of getting Minecraft) with like 20 mods and still run smoothly.
 
-#And remember, my fellow gamers: Your lag may seem bad to you, but people like me will play Minecraft: Powerpoint edition and be completely fine with it.
+# And remember, my fellow gamers: Your lag may seem bad to you, but people like me will play Minecraft: Powerpoint edition and be completely fine with it.

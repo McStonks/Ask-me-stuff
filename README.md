@@ -10,10 +10,10 @@ Don't worry about how embarassing you might think it is, just ask away, I honest
 
 At the time I'm writing this, the only PCs I have are my Chromebook and Samsung¹, so I can only make source trilogy maps using online map editors. If anybody finds any online or android source map editors out there, tell me through discussions.
 
-I can still play _some_ goldsource and source games, though, thanks to the Xash3D guys and whoever's doing crap with the Nvidia Shield HL2 thing. I don't actually have a Nvidia Shield (I have a Samsung, and not because of that virtual assistant) though, somebody added actual touch controls, some of which were clearly ported from Xash3D. Keyword: _some_.
+I can still play _some_ goldsource and source games, though, because of Xash3D, that Nvidia Shield HL2 thing, and Nvidia GeForce. But only _some_, as some games are incompatible with them, such as Opposing Force, Half-Life: Source, etc.
 
 My main account (Slambo312) probably won't be online for a while, since I only really used my laptop for that.
 
 ¹ I consider my phone a PC because it's technically a personal computer, and its specs are good enough that it can play Pojav (an amazing port of Minecraft Java, which uses a technically legal way of getting Minecraft) with like 20 mods and still run smoothly.
 
-# And remember, my fellow gamers: Your lag may seem bad to you, but people like me will play Minecraft: Powerpoint edition and be completely fine with it.
+# And remember, my fellow gamers: Your lag may seem bad to you, but people like me can play games at 15 fps and be fine with it.
